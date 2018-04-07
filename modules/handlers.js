@@ -1,4 +1,4 @@
-var fs = require('fs');
+
 var formidable = require('formidable');
 
 exports.upload = function(request, response) {
